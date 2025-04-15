@@ -72,3 +72,4 @@ This script:
 - Forecasting models powered by **LightGBM**
 
 ## Author
+[Betiku Oluwatobi](http://linkedin.com/in/oluwatobi-betiku-oluwatobi/)
