@@ -41,3 +41,8 @@ This project was developed for the IBM SkillsBuild/Zindi Africa "Forecasting Cli
 ## Performance
 - **Public Leaderboard**: 6.808 RMSE (Rank 100/444)
 - **Private Leaderboard**: 5.618 RMSE
+
+  
+![BetikuOluwatobi-IBM SkillsBuild Hydropower Climate Optimisation Challenge ](https://github.com/user-attachments/assets/9397703c-a1d2-4898-8335-12d160edf7bf)
+
+
